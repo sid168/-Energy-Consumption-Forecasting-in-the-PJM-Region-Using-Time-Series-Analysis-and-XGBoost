@@ -1,0 +1,2 @@
+# -Energy-Consumption-Forecasting-in-the-PJM-Region-Using-Time-Series-Analysis-and-XGBoost
+Develop advanced forecasting model for energy consumption in the PJM region using time series analysis and the XGBoost algorithm. By capturing historical patterns and incorporating various factors, the model aims to provide accurate predictions to optimize energy distribution, enhance grid stability, and support informed decision-making.
